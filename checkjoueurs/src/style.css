@@ -1,0 +1,35 @@
+/* player.css */
+
+.player-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    
+  }
+  
+  .player-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .player-card h2 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+  }
+  
+  .player-card p {
+    margin: 5px 0;
+  }
+  .container{
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: -5px;
+  }
+  h1{
+    text-align: center;
+  }
